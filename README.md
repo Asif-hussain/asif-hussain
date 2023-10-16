@@ -1,7 +1,15 @@
 
 <div align="center">
   
-# Hi, I am Asif Hussain (asif-hussain) 👋
+# Hi, I am Asif Hussain (Asif-hussain) 👋 
+
+
+
+#### How to Reach to me
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/asif-hussain-74638671/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Asif-hussain)
+
 
 <img align='right' src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="230">
 
@@ -201,10 +209,4 @@ Extensive client interaction for requirements gathering, system analysis, and de
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-build a web app with Node.js 
-
-###### Home EZ 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
-build a full featured interior floorplan editor with React.js for a Tech Start up in the interior design industry to breach the gap between home owner and contractors using Machine Learning to convert floorplan into machine readable format.
-
+build a web app with Node.js and Angular for the food delivery and payments
