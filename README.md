@@ -1,202 +1,654 @@
+<!--
+  This README is a GitHub profile README (repo name == username).
+  Images come from: capsule-render (banners), readme-typing-svg (typing line),
+  skillicons.dev (icon rows), shields.io (badges), github-profile-summary-cards
+  and streak-stats (GitHub stats), and a self-generated snake (.github/workflows/snake.yml).
+-->
 
 <div align="center">
-  
-# Hi, I am Asif Hussain (Asif-hussain) 👋 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A0f2027%2C50%3A203a43%2C100%3A2c5364&amp;height=230&amp;section=header&amp;text=Asif%20Hussain&amp;fontSize=70&amp;fontColor=ffffff&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=AI%20Engineer%20%C2%B7%20Forward%20Deployed%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Data%20%26%20ETL&amp;descSize=18&amp;descAlignY=58" width="100%" alt="Asif Hussain · AI Engineer · Forward Deployed Engineer"/>
 
+<a href="https://github.com/Asif-hussain"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=AI%20Engineer%20%7C%20Forward%20Deployed%20Engineer;13%20years%20shipping%20production%20systems;LLM%20Agents%20%E2%80%A2%20Agentic%20RAG%20%E2%80%A2%20MCP%20%E2%80%A2%20LangGraph;Full-Stack%3A%20Node.js%20%E2%80%A2%20Python%20%E2%80%A2%20React%20%E2%80%A2%20Next.js;ETL%20Pipelines%20%E2%80%A2%20Warehousing%20%E2%80%A2%20Snowflake%20%E2%80%A2%20DuckDB;Healthcare%20%28HL7%20%2F%20FHIR%20%2F%20HIPAA%29%20%E2%80%A2%20Fintech;From%20proof%20of%20concept%20to%20production" alt="AI Engineer | Forward Deployed Engineer | Full-Stack | ETL"/></a>
 
-#### How to Reach to me
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/asif-hussain-74638671/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Asif-hussain)
+<p>
+  <a href="https://www.linkedin.com/in/asif-hussain-74638671/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/Asif-hussain"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/></a>&nbsp;
+  <a href="mailto:asif.bzu.1035@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email"/></a>
+</p>
 
+<a href="https://tkriver.com/"><img src="https://img.shields.io/badge/Website-tkriver.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: tkriver.com"/></a>
 
-<img align='right' src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="230">
+<p>
+  <img src="https://img.shields.io/badge/Experience-13%2B_years-2EA44F?style=flat-square" alt="Experience 13+ years"/>
+  <img src="https://img.shields.io/badge/AI_Systems-in_production-8A2BE2?style=flat-square" alt="AI Systems in production"/>
+  <img src="https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-01411C?style=flat-square" alt="Based in Lahore, Pakistan"/>
+  <img src="https://komarev.com/ghpvc/?username=Asif-hussain&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
-I am currently serving as a **Senior Techinical Lead** [Idea to life](https://ideatolife.me/), bringing over nine years of experience as a self-taught full-stack software engineer. Since 2014, I have been deeply immersed in the world of technology, dedicating my days to crafting cutting-edge, enterprise-grade cybersecurity solutions and my nights to building robust full-stack web applications
+**[👋 About](#-about-me) · [📈 Impact](#-impact-at-a-glance) · [🧩 What I Do](#-what-i-do) · [🚀 How I Deliver](#-how-i-deliver) · [🧱 Systems](#-systems-i-build) · [🧰 Stack](#-tech-stack) · [💼 Experience](#-experience) · [🌟 Projects](#-featured-projects) · [🏆 Certifications](#-certifications-and-assessments) · [📊 Stats](#-github-stats)**
 
-I am an advocate of **clean**, **testable** and **maintainable** code with excellence knowledge in **SOLID** principle and various **design patterns** implemented in **Javascript**. I lead through example, **code review**, **pair programming**, knowledge transfer session.
-
-                                                                                                        
-## 💻 Technologies and Skills
-
-[](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Queues-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SageMaker-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Min.io-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-s3-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-insomnia-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-swagger-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-jira-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Confluence-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-scrum-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-!![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-
-##### Personal account
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-hussain&langs_count=5&theme=tokyonight&layout=compact)]()
 </div>
-
-```python
-import os
-
-def show_os_knowledge():
-    return [os.Windows(), os.Mac(), os.Linux().ubuntu]
-
-def code_with:
-    work = True
-    while work:
-        if time.localtime().tm_hour > 18:
-            work = False
-        return ["Javascript", "Nest.js", "Next.js", "MongoDB", "React.js", "Postgres", "Python"]
-    return ["Python", "React.js", "Firebase", "MongoDB", "MySql"]
-```
-## 🔨 Projects
-
-## 1. Senior Technical Lead | Idea to life
-
-###### AI Object detection 
-![](https://img.shields.io/badge/Code-Nest-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Queues-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SageMaker-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Confluence-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Min.io-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-s3-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-insomnia-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-swagger-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-jira-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-scrum-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
-
-Project lead. An AI tool that allow user to annotate, train models and then use trained images in object detection.
-
-## 2. Technical Lead | Synthesis Health
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Queues-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Confluence-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-s3-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-insomnia-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-swagger-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
-
-#### Responsibilities 
-Lead a high-performing team in developing a pioneering technology solution for teleradiology, medical imaging, and laboratory clinics.
-Drive sprint planning, task prioritization, and provide hands-on assistance to team members.
-Conduct rigorous code reviews, resolving high-priority technical issues and ensuring adherence to coding standards.
-Architect and optimize microservices using pub/sub messaging and cloud functions for scalable and efficient solutions.
-Mentor and guide junior developers, fostering a collaborative and growth-oriented team environment.
-Stay abreast of emerging technologies and industry trends to drive innovation and continuous improvement.
-Collaborate with cross-functional teams to ensure seamless integration, testing, and deployment of software solutions.
-
-## Senior Back-End Engineer | Maven Machines  
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Queues-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Confluence-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-s3-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-insomnia-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-swagger-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
-Technology Expertise: Leveraged advanced technologies such as RabbitMQ, RPC, MQTT, TypeScript and Laravel to optimize system performance and functionality, ensuring a seamless user experience.
-Client Collaboration: Worked closely with clients to gather requirements, ensuring a deep understanding of their needs. Conducted thorough code reviews and provided expert coding assistance to team members, ensuring high-quality and efficient software development.
-Scalable Architecture: Designed and implemented a scalable microservices architecture, enabling seamless growth and adaptability. Developed efficient and reliable database components, ensuring data integrity and optimal system performance.
-Team Leadership: Led a high-performing team in developing a pioneering technology solution for teleradiology, medical imaging, and laboratory clinics. Facilitated sprint planning, task prioritization, and provided hands-on assistance to team members, fostering a collaborative and productive work environment.
-
-
-###### Senior Back-End Engineer | Interlink Multimedia 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Queues-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Confluence-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-s3-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-insomnia-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-swagger-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-microservices-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
-Contributed significantly to Node.js development, demonstrating expertise in designing and architecting new modules.
-Calculated risk factors and provided accurate estimations for project planning and execution.
-Ensured code and Docker status updates after implementing new modules, maintaining code integrity and efficient deployment processes.
-
-
-######  Senior Software Engineer | Transdata  
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Queues-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Confluence-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
-
-Played a key role in Node.js, Laravel, and Project Management over the last 4 years, showcasing versatility and deep technical knowledge.
-Mentored junior team members, overseeing planning, development, and deployment efforts while ensuring high-quality work output.
-Contributed to comprehensive documentation supporting the development and system support lifecycles.
-Took part in Configuration Management and implemented Continuous Integration practices, enabling smooth and efficient software deployment.
-Provided technical leadership at the project level, guiding teams towards successful project outcomes
-
-
-###### Sr Software Engineer | Bitbean 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Queues-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-RabbitMQ-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Confluence-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
-Develop and execute unit, functional, integration testing of developed software components
-Take part in Configuration Management, Continuous Integration implementation
-Work in a high-speed, agile environment to ship features in the shortest time possible
-Deliver quality and secure code by applying the best development practices
-Implement software components according to the design specifications
-Strong knowledge in unit & integration testing with Mocha.
-Participate in estimating project efforts and delivery timelines
-Extensive client interaction for requirements gathering, system analysis, and design.
 
 ---
 
-#### Freelance Projects
+## 👋 About Me
 
-### Tamu App 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Queues-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+I'm an **AI Engineer and Forward Deployed Engineer** with **13 years** of shipping production software. For the last three years I've focused on one thing: getting **LLM and agent systems past the proof-of-concept stage and into live operation** inside customer environments.
 
-build a web app with Node.js and Angular for the food delivery and payments
+I work **end to end**: discovery with the customer, prototype, integration into their existing stack, evaluation, and production support. My strongest vertical is **regulated industry**, healthcare (HL7, FHIR, HIPAA) and fintech, where AI deployments stall on compliance, data access and auditability rather than on model quality.
+
+Under the AI work sits a decade of **full-stack and data engineering**: Node.js, NestJS and Python backends, React and Next.js frontends, event-driven microservices, and **ETL pipelines** that turn messy source data into clean, queryable warehouses.
+
+- 🔭 **Now:** Technical Lead, AI Systems at [**IdeaToLife**](https://ideatolife.me/) (UAE, remote)
+- 🤖 **Shipping:** RAG pipelines, LLM agents and multi-model orchestration on AWS
+- 🏥 **Domains:** healthcare, fintech, structured finance, logistics, e-commerce, government benefits
+- 🌍 **Teams:** led distributed teams delivering for **US and UAE** customers
+- 🧑‍🏫 **Mentoring:** 10+ engineers grown into senior roles
+- 💡 **Craft:** clean, testable, maintainable code · SOLID · design patterns · code review · pair programming
+- 📍 **Location:** Lahore, Pakistan 🇵🇰
+- 🗣️ **Languages:** English (full professional) · Urdu (native)
+
+```text
+$ whoami
+
+ █████╗ ███████╗██╗███████╗   ██╗  ██╗██╗   ██╗███████╗███████╗ █████╗ ██╗███╗   ██╗
+██╔══██╗██╔════╝██║██╔════╝   ██║  ██║██║   ██║██╔════╝██╔════╝██╔══██╗██║████╗  ██║
+███████║███████╗██║█████╗     ███████║██║   ██║███████╗███████╗███████║██║██╔██╗ ██║
+██╔══██║╚════██║██║██╔══╝     ██╔══██║██║   ██║╚════██║╚════██║██╔══██║██║██║╚██╗██║
+██║  ██║███████║██║██║        ██║  ██║╚██████╔╝███████║███████║██║  ██║██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚═╝╚═╝        ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+
+  > AI Engineer · Forward Deployed Engineer · Full-Stack · Data & ETL
+  > 13 years in production · Healthcare & Fintech · US / UAE customers
+  > status: shipping agent systems at IdeaToLife ●
+```
+
+```python
+class AsifHussain:
+    """AI Engineer · Forward Deployed Engineer · Full-Stack · Data & ETL"""
+
+    role = "Technical Lead, AI Systems @ IdeaToLife"
+    years_in_production = 13
+    verticals = ["Healthcare (HL7 · FHIR · HIPAA)", "Fintech", "Logistics", "E-commerce"]
+
+    stack = {
+        "ai":       ["LangGraph", "LangChain", "MCP", "OpenAI Agents SDK", "Agentic RAG"],
+        "evalops":  ["LangSmith", "LangFuse", "tracing", "agent regression tests"],
+        "backend":  ["Python", "Node.js", "TypeScript", "NestJS", "Flask", "Laravel"],
+        "frontend": ["React", "Next.js", "shadcn/ui"],
+        "data":     ["PostgreSQL", "Snowflake", "DuckDB", "ElasticSearch", "MinIO"],
+        "cloud":    ["AWS", "GCP", "Docker", "Kubernetes", "Terraform"],
+    }
+
+    def deliver(self, idea: str) -> str:
+        for step in ("discover", "prototype", "integrate", "evaluate", "operate"):
+            print(f"[{step:^11}] {idea}")
+        return "live in production · measured · supported"
+
+
+if __name__ == "__main__":
+    print(AsifHussain().deliver("an AI proof of concept that never shipped"))
+```
+
+---
+
+## 📈 Impact at a Glance
+
+<table>
+  <tr>
+    <td align="center" width="33%"><h2>🚀 300%</h2>scalability gain from re-architecting a monolith into microservices</td>
+    <td align="center" width="33%"><h2>⚡ 40%</h2>faster API responses across multiple production systems</td>
+    <td align="center" width="33%"><h2>🏥 30%</h2>better clinical efficiency from the HL7 / FHIR integration platform</td>
+  </tr>
+  <tr>
+    <td align="center"><h2>🎯 20%</h2>higher diagnostic accuracy on the same clinical platform</td>
+    <td align="center"><h2>📅 25%</h2>better on-time delivery after restructuring sprint planning</td>
+    <td align="center"><h2>🧑‍🏫 10+</h2>engineers mentored into senior roles</td>
+  </tr>
+</table>
+
+---
+
+## 🧩 What I Do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 AI & Agent Systems</h3>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=py,aws" height="36" alt="Python, AWS"/></p>
+
+- **Agentic & classic RAG**: chunking, embeddings, re-ranking
+- **LLM agents** with LangGraph, LangChain, MCP and the OpenAI Agents SDK
+- **Multi-model orchestration** and tool calling
+- **EvalOps**: eval pipelines, tracing, agent regression tests
+- **MLOps** on AWS: SageMaker, Lambda, fine-tuning, CloudWatch
+- **Computer vision**: annotate → train → detect
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🧱 Full-Stack Engineering</h3>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs" height="36" alt="Node.js, NestJS, React, Next.js"/></p>
+
+- **Backends**: Node.js, NestJS, Express, Python/Flask, PHP/Laravel
+- **Frontends**: React, Next.js, TypeScript, shadcn/ui
+- **Event-driven microservices**: RabbitMQ, BullMQ, MQTT, RPC, WebSockets
+- **Payments & auth**: Stripe, Fortapay, Clerk
+- **Cloud**: AWS, GCP, Docker, Kubernetes, CI/CD, Terraform
+- **Performance**: 300% scale, 40% faster APIs
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🔄 Data & ETL</h3>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch" height="36" alt="PostgreSQL, MongoDB, ElasticSearch"/></p>
+
+- **End-to-end ETL**: scrape → load → transform → validate
+- **Schema design** for normalised warehouses
+- **Scheduling** and **data-quality validation**
+- **Warehouses & engines**: Snowflake, DuckDB, PostgreSQL
+- **Storage**: S3 and MinIO for data-residency customers
+- **Clean data** that feeds analytics, dashboards and RAG
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Industries I've delivered for**
+
+🏥 Healthcare & Medical Imaging &nbsp;·&nbsp; 💳 Fintech & Banking &nbsp;·&nbsp; 📊 Structured Finance &nbsp;·&nbsp; 🚚 Freight & Logistics <br/>
+🛒 E-commerce (Walmart.com) &nbsp;·&nbsp; 🏛️ Government Benefits & Medicaid &nbsp;·&nbsp; 🏃 Sports Medicine &nbsp;·&nbsp; 🍔 Food Delivery
+
+</div>
+
+---
+
+## 🚀 How I Deliver
+
+> *"Most AI projects don't fail on the model. They fail on data access, integration, compliance and the lack of a way to measure behaviour in production. That's the part I own."*
+
+```mermaid
+flowchart LR
+    A["🔍 <b>Discover</b><br/>workflows, data<br/>& constraints"] --> B["🧪 <b>Prototype</b><br/>fast proof on<br/>real customer data"]
+    B --> C["🔌 <b>Integrate</b><br/>into their stack,<br/>auth & compliance"]
+    C --> D["📏 <b>Evaluate</b><br/>eval sets, tracing,<br/>regression gates"]
+    D --> E["🚀 <b>Operate</b><br/>deploy, monitor,<br/>support & iterate"]
+    E -. "feedback" .-> A
+```
+
+| Phase | What the customer gets |
+| :-- | :-- |
+| 🔍 **Discover** | Requirement workshops with stakeholders, a clear problem statement, and the data and compliance constraints written down |
+| 🧪 **Prototype** | A working slice on their real data, early enough to change direction cheaply |
+| 🔌 **Integrate** | The system wired into existing apps, auth, payments, EHRs or data stores, on their cloud or on-prem |
+| 📏 **Evaluate** | Eval datasets, tracing and regression tests so behaviour is measured, not demoed |
+| 🚀 **Operate** | Monitoring, alerting, support and a roadmap, with me as the primary technical contact |
+
+---
+
+## 🧱 Systems I Build
+
+### 🤖 Agentic RAG & LLM agents in production
+
+```text
+                      ┌─────────────────────────────────┐
+                      │   Customer apps · APIs · chat   │
+                      └────────────────┬────────────────┘
+                                       ▼
+               ┌───────────────────────────────────────────────┐
+               │         AGENT ORCHESTRATOR · LangGraph        │
+               │     plan ► retrieve ► call tools ► answer     │
+               └───────────────────────┬───────────────────────┘
+            ┌──────────────────────────┼──────────────────────────┐
+            ▼                          ▼                          ▼
+  ┌───────────────────┐      ┌───────────────────┐      ┌───────────────────┐
+  │     RETRIEVER     │      │    TOOLS · MCP    │      │     LLM ROUTER    │
+  │ agentic / classic │      │   customer APIs   │      │    multi-model    │
+  │  top-k + re-rank  │      │  DBs · workflows  │      │    tool calling   │
+  └─────────┬─────────┘      └───────────────────┘      └───────────────────┘
+            ▼
+  ┌───────────────────┐
+  │    VECTOR STORE   │ ◄── ingest: load ► chunk ► embed ► upsert
+  └───────────────────┘
+  Pinecone · pgvector · Qdrant · ChromaDB · Weaviate
+
+══════════════════════════════════════════════════════════════════════════════
+ EVALOPS │ LangSmith / LangFuse traces ► eval sets ► regression gate
+ MLOPS   │ AWS Lambda · SageMaker endpoints · ECR · CloudWatch alarms
+ DEPLOY  │ customer AWS account or on-prem + MinIO for data residency
+══════════════════════════════════════════════════════════════════════════════
+```
+
+### 🧱 Full-stack platform (fintech-grade)
+
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│           FRONTEND   Next.js · React · TypeScript · shadcn/ui            │
+└────────────────────────────────────┬─────────────────────────────────────┘
+                                     ▼  Clerk auth · JWT · HTTPS
+┌──────────────────────────────────────────────────────────────────────────┐
+│         API GATEWAY   routing · auth · rate limits · validation          │
+└────────┬──────────────────┬──────────────────┬──────────────────┬────────┘
+         ▼                  ▼                  ▼                  ▼
+ ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐
+ │    ACCOUNTS   │  │    PAYMENTS   │  │    WORKERS    │  │   AI SERVICE  │
+ │     NestJS    │  │     Stripe    │  │     BullMQ    │  │  RAG · agents │
+ │    Express    │  │    Fortapay   │  │  cron · jobs  │  │  Python/Flask │
+ └───────┬───────┘  └───────┬───────┘  └───────┬───────┘  └───────┬───────┘
+         │                  │                  │                  │
+         └──────────────────┴────────┬─────────┴──────────────────┘
+                                     ▼
+┌──────────────────────────────────────────────────────────────────────────┐
+│        EVENT BUS   RabbitMQ · Redis · pub/sub · MQTT · WebSockets        │
+└────────────────────────────────────┬─────────────────────────────────────┘
+                                     ▼
+┌──────────────────────────────────────────────────────────────────────────┐
+│     DATA   PostgreSQL · MongoDB · Redis · ElasticSearch · S3 / MinIO     │
+└──────────────────────────────────────────────────────────────────────────┘
+  RUNS ON ► Docker · Kubernetes · AWS / GCP · CI/CD · Terraform · CloudWatch
+```
+
+### 🔄 ETL & data pipelines
+
+*The pattern behind the **Credit Union Data Pipeline**: I owned extraction, schema design, transformation logic, scheduling and data-quality validation.*
+
+```text
+┌───────────────┐   ┌───────────────┐   ┌───────────────┐   ┌───────────────┐
+│   1. EXTRACT  │   │    2. LOAD    │   │  3. TRANSFORM │   │  4. WAREHOUSE │
+│  web scrapers │──►│  raw landing  │──►│  clean · map  │──►│   normalised  │
+│  source APIs  │   │      zone     │   │   normalise   │   │     schema    │
+│  with retries │   │   S3 · MinIO  │   │ Python·DuckDB │   │  Snowflake·PG │
+└───────┬───────┘   └───────┬───────┘   └───────┬───────┘   └───────┬───────┘
+        │                   │                   │                   │
+┌───────┴───────────────────┴───────────────────┴───────────────────┴───────┐
+│ ORCHESTRATE  scheduled runs · job queues · retries · alerting             │
+│ QUALITY      row counts · schema checks · dedupe · reconciliation         │
+│ GOVERN       lineage · versioned transforms · reproducible backfills      │
+└─────────────────────────────────────┬─────────────────────────────────────┘
+                                      ▼
+┌───────────────────────────────────────────────────────────────────────────┐
+│        SERVE   dashboards · analytics · APIs · RAG over clean data        │
+└───────────────────────────────────────────────────────────────────────────┘
+
+    ETL design · web scraping · transformation · warehousing · validation
+```
+
+### 🏥 Healthcare interoperability (HL7 / FHIR)
+
+```text
+┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
+│    EHR / EMR     │  │     CLINICAL     │  │    DIAGNOSTIC    │
+│     systems      │  │     systems      │  │    platforms     │
+└─────────┬────────┘  └─────────┬────────┘  └─────────┬────────┘
+          └─────────────────────┼─────────────────────┘
+                                ▼  HL7 v2 · FHIR · CDA
+            ┌────────────────────────────────────────┐
+            │           INTEGRATION LAYER            │
+            │     parse ► validate ► map ► route     │
+            └───────────────────┬────────────────────┘
+                                ▼  pub/sub
+            ┌────────────────────────────────────────┐
+            │     HIPAA-COMPLIANT MICROSERVICES      │
+            │   imaging · worklists · reports · AI   │
+            └───────────────────┬────────────────────┘
+                                ▼
+            ┌────────────────────────────────────────┐
+            │ CLINICAL USERS  ·  real-time exchange  │
+            └────────────────────────────────────────┘
+    encryption · audit trail · least-privilege access · PHI safety
+```
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,nestjs,express,flask,php,laravel,react,nextjs,html,css&perline=13" alt="Languages and frameworks"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,bash,git,vscode&perline=13" alt="Cloud and DevOps"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq,elasticsearch,firebase&perline=13" alt="Data and messaging"/>
+
+</div>
+
+<br/>
+
+| Area | Tools & skills |
+| :-- | :-- |
+| 🤖 **LLM & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-6E40C9?style=flat-square) ![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-6E40C9?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=flat-square) |
+| 🔎 **Retrieval & Vector DBs** | ![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-FF6F00?style=flat-square) ![Classic RAG](https://img.shields.io/badge/Classic_RAG-FF6F00?style=flat-square) ![Chunking](https://img.shields.io/badge/Chunking-B45309?style=flat-square) ![Embeddings](https://img.shields.io/badge/Embeddings-B45309?style=flat-square) ![Re-ranking](https://img.shields.io/badge/Re--ranking-B45309?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white) ![Weaviate](https://img.shields.io/badge/Weaviate-00A142?style=flat-square) |
+| 📏 **EvalOps & Observability** | ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangFuse](https://img.shields.io/badge/LangFuse-0A0A0A?style=flat-square) ![Tracing](https://img.shields.io/badge/Tracing-0E7490?style=flat-square) ![Eval Pipelines](https://img.shields.io/badge/Eval_Pipelines-0E7490?style=flat-square) ![Agent Regression Tests](https://img.shields.io/badge/Agent_Regression_Tests-0E7490?style=flat-square) |
+| ⚙️ **MLOps** | ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square) ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-7C3AED?style=flat-square) ![Deployment Pipelines](https://img.shields.io/badge/Deployment_Pipelines-7C3AED?style=flat-square) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square) |
+| 🖥️ **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white) |
+| ☁️ **Cloud & Infra** | ![AWS EC2 · ECR · Lambda · S3 · IAM](https://img.shields.io/badge/AWS-EC2_%C2%B7_ECR_%C2%B7_Lambda_%C2%B7_S3_%C2%B7_IAM-FF9900?style=flat-square) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![On-prem](https://img.shields.io/badge/On--prem-555555?style=flat-square) |
+| 🔀 **Architecture & Messaging** | ![Microservices](https://img.shields.io/badge/Microservices-0F766E?style=flat-square) ![Event-Driven](https://img.shields.io/badge/Event--Driven-0F766E?style=flat-square) ![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-0F766E?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![RPC](https://img.shields.io/badge/RPC-0F766E?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square) ![API Gateways](https://img.shields.io/badge/API_Gateways-0F766E?style=flat-square) |
+| 🗄️ **Data & ETL** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![ETL Design](https://img.shields.io/badge/ETL_Design-1D4ED8?style=flat-square) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-1D4ED8?style=flat-square) ![Warehousing](https://img.shields.io/badge/Warehousing-1D4ED8?style=flat-square) ![Data Quality](https://img.shields.io/badge/Data_Quality-1D4ED8?style=flat-square) |
+| 🔐 **Integrations & Compliance** | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Fortapay](https://img.shields.io/badge/Fortapay-1E3A8A?style=flat-square) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white) ![HL7 v2](https://img.shields.io/badge/HL7_v2-B91C1C?style=flat-square) ![FHIR](https://img.shields.io/badge/FHIR-E33022?style=flat-square) ![CDA](https://img.shields.io/badge/CDA-B91C1C?style=flat-square) ![HIPAA](https://img.shields.io/badge/HIPAA-0B7285?style=flat-square) ![EHR / EMR](https://img.shields.io/badge/EHR_%2F_EMR-0B7285?style=flat-square) |
+| 🧪 **Testing, Tools & Delivery** | ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) |
+
+---
+
+## 💼 Experience
+
+```text
+  2014 ──●── Virtual-Base ·········· Software Engineer
+         │   API test plans · Node.js
+         │
+  2015 ──●── Bitbean ··············· Senior Software Engineer
+         │   Walmart.com · KTS Trust
+         │
+  2017 ──●── Transdata ············· Senior Software Engineer
+         │   Node.js · Laravel · CI
+         │
+  2021 ──●── Interlink Multimedia ·· Senior Backend Engineer
+         │   Node.js · Docker
+         │
+  2022 ──●── Maven Machines ········ Senior Backend Engineer
+         │   logistics · MQTT
+         │
+  2022 ──●── Synthesis Health ······ Senior Backend Engineer
+         │   HL7 · FHIR · HIPAA
+         │
+  2022 ──●── IdeaToLife ············ Technical Lead, AI Systems
+         ▼   RAG · agents · AWS
+        NOW ► taking LLM & agent systems from proof of concept to production
+```
+
+### 🧠 Technical Lead, AI Systems · [IdeaToLife](https://ideatolife.me/)
+`Dec 2022 – Present` · 🇦🇪 UAE (Remote)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+
+- 🤖 Own **AI product delivery end to end** for enterprise customers: scoping with the client, prototype, production integration and ongoing operation.
+- 🔎 Shipped **RAG pipelines, LLM agents and multi-model orchestration** integrated into customers' existing systems and data.
+- 📏 Built **evaluation and observability** into agents so production behaviour is measurable and regressions are caught before customers see them.
+- 🧱 Led the **monolith → microservices** migration for a **300% scalability gain**.
+- ☁️ Own AWS infrastructure across **EC2, ECR, Lambda, SageMaker, S3, IAM, CloudWatch** and managed endpoints, plus on-prem servers and **MinIO** for customers with data-residency requirements.
+- 💳 Integrated **Stripe and Fortapay** payments, **Clerk** auth, **HL7 and FHIR** interoperability, and **Redis and RabbitMQ** for async processing.
+- 👁️ Led an **AI object-detection platform** where users annotate images, train models and run detection with the trained models.
+- 🤝 Primary technical contact for customers: requirement discovery, solution walkthroughs and delivery updates.
+- 🧑‍🏫 Run engineering: architecture, sprint planning, code review, mentoring and delivery accountability.
+
+### 🩻 Senior Backend Engineer · [Synthesis Health](https://synthesis.health/) (via Zazmic)
+`Jun 2022 – Dec 2022` · 🇺🇸 USA (Remote)
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HL7 v2](https://img.shields.io/badge/HL7_v2-B91C1C?style=flat-square) ![FHIR](https://img.shields.io/badge/FHIR-E33022?style=flat-square) ![HIPAA](https://img.shields.io/badge/HIPAA-0B7285?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-0F766E?style=flat-square) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+- 🏥 Built the core **teleradiology and medical imaging platform** serving clinical users; the platform improved **clinical efficiency by 30%** and **diagnostic accuracy by 20%**.
+- 🔗 Designed **HL7 and FHIR interfaces** for real-time exchange across clinical systems, EHRs and diagnostic platforms.
+- 🔐 Stood up **HIPAA-compliant microservices** with pub/sub messaging, cloud functions and HL7 v2 parsing.
+- 🩺 Worked directly with clinical stakeholders to turn domain requirements into system design.
+- 🔍 Drove sprint planning and code reviews, resolved high-priority technical issues and mentored junior developers.
+
+### 🚚 Senior Backend Engineer · Maven Machines (via Andela)
+`Feb 2022 – Jun 2022` · 🇺🇸 USA (Remote)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![RPC](https://img.shields.io/badge/RPC-0F766E?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-0F766E?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+- 🚛 Built **freight and logistics optimisation** systems on RabbitMQ, RPC, MQTT, TypeScript and Laravel.
+- 📐 Designed a **microservices architecture sized for projected growth**, with reliable database components.
+- 🤝 Gathered requirements with the client, ran code reviews and gave hands-on coding help to the team.
+
+### 🧩 Senior Backend Engineer · Interlink Multimedia
+`Feb 2021 – Dec 2021` · 🇵🇰 Pakistan
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-0F766E?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+
+- 🏗️ Architected and owned **new Node.js modules** end to end.
+- 🐳 Managed **Docker deployments** and CI pipeline health.
+- 📊 Ran technical risk assessment and delivery estimation.
+
+### 📦 Senior Software Engineer · Transdata
+`Dec 2017 – Jan 2021` · 🇵🇰 Pakistan
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+
+- 🎯 Delivered Node.js and Laravel projects with **full ownership of scope, timeline and client communication**.
+- 🧑‍🏫 Mentored junior engineers across planning, development and deployment.
+- ⚙️ Set **CI standards** and configuration management, and wrote documentation for development and support.
+
+### 🛒 Senior Software Engineer · Bitbean
+`Feb 2015 – Dec 2017` · 🇵🇰 Pakistan (US clients)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+
+- 🛍️ Delivered features for **Walmart.com** at consumer scale.
+- 🏛️ Built the **KTS Pool Trust** Medicaid management system.
+- 🧪 Maintained enterprise test suites: unit, functional and integration testing with **Mocha**.
+- 🤝 Worked directly with clients on requirements, system analysis and design in a fast agile environment.
+
+### 🧪 Software Engineer · Virtual-Base
+`Jan 2014 – Feb 2015` · 🇵🇰 Pakistan
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![API Design](https://img.shields.io/badge/API_Design-0F766E?style=flat-square) ![Testing](https://img.shields.io/badge/Testing-8D6748?style=flat-square&logo=mocha&logoColor=white)
+
+- 📋 Built functional and performance **API test plans** for server-side Node.js applications.
+- 🧭 Advised distributed teams on API design.
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 [TAPP Engine](https://www.tappengine.com/)
+`Fintech infrastructure`
+
+Fintech infrastructure platform built on React, Next.js and Node.js microservices, with hardened security and payment flows.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Microservices-0F766E?style=flat-square" alt="Microservices"/> <img src="https://img.shields.io/badge/Payments-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Payments"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [9Squid](https://www.9squid.ai/)
+`AI · Structured finance`
+
+AI-powered structured finance product delivering automated analytics and model-driven insight over complex financial instruments.
+
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" alt="AI"/> <img src="https://img.shields.io/badge/LLM-6E40C9?style=flat-square" alt="LLM"/> <img src="https://img.shields.io/badge/Analytics-1D4ED8?style=flat-square" alt="Analytics"/> <img src="https://img.shields.io/badge/Fintech-0F766E?style=flat-square" alt="Fintech"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [TAPP Cash](https://marketing-website.tappcash.com/why-tappcash)
+`Banking · White label`
+
+RIA-native banking platform with a hierarchical account architecture and full white-label capability for partner institutions.
+
+<img src="https://img.shields.io/badge/Banking-1E3A8A?style=flat-square" alt="Banking"/> <img src="https://img.shields.io/badge/White_Label-0F766E?style=flat-square" alt="White Label"/> <img src="https://img.shields.io/badge/Multi--tenant-7C3AED?style=flat-square" alt="Multi-tenant"/> <img src="https://img.shields.io/badge/Security-B91C1C?style=flat-square" alt="Security"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🩻 [Synthesis Health](https://synthesis.health/)
+`Healthcare · Teleradiology`
+
+Teleradiology and medical imaging platform on a HIPAA-compliant microservices architecture with HL7 and FHIR interoperability.
+
+<img src="https://img.shields.io/badge/HL7_v2-B91C1C?style=flat-square" alt="HL7 v2"/> <img src="https://img.shields.io/badge/FHIR-E33022?style=flat-square" alt="FHIR"/> <img src="https://img.shields.io/badge/HIPAA-0B7285?style=flat-square" alt="HIPAA"/> <img src="https://img.shields.io/badge/Pub%2FSub-0F766E?style=flat-square" alt="Pub/Sub"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏃 [Disc Dubai](https://dubai.disc-me.com/)
+`Healthcare · AI agent`
+
+Sports medicine and healthcare platform with multi-location booking and embedded AI agent capabilities.
+
+<img src="https://img.shields.io/badge/AI_Agent-8A2BE2?style=flat-square" alt="AI Agent"/> <img src="https://img.shields.io/badge/Booking-0F766E?style=flat-square" alt="Booking"/> <img src="https://img.shields.io/badge/Multi--location-1D4ED8?style=flat-square" alt="Multi-location"/> <img src="https://img.shields.io/badge/Healthcare-0B7285?style=flat-square" alt="Healthcare"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ [KTS Trust](https://ktstrust.org/)
+`Government benefits · Medicaid`
+
+Government benefits and Medicaid pooled trust platform with compliance reporting and eligibility workflows.
+
+<img src="https://img.shields.io/badge/Compliance-0B7285?style=flat-square" alt="Compliance"/> <img src="https://img.shields.io/badge/Reporting-1D4ED8?style=flat-square" alt="Reporting"/> <img src="https://img.shields.io/badge/Workflows-0F766E?style=flat-square" alt="Workflows"/> <img src="https://img.shields.io/badge/Medicaid-B91C1C?style=flat-square" alt="Medicaid"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 Credit Union Data Pipeline
+`Data engineering · ETL`
+
+End-to-end ETL system that scraped, loaded and transformed credit union financial data into a normalised warehouse. Owned extraction, schema design, transformation logic, scheduling and data-quality validation.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/ETL-1D4ED8?style=flat-square" alt="ETL"/> <img src="https://img.shields.io/badge/Web_Scraping-1D4ED8?style=flat-square" alt="Web Scraping"/> <img src="https://img.shields.io/badge/Warehousing-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Warehousing"/> <img src="https://img.shields.io/badge/Data_Quality-0F766E?style=flat-square" alt="Data Quality"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 QueryStack
+`AI · Query engine`
+
+AI query engine combining retrieval-augmented generation, embeddings and multi-model orchestration, deployed on AWS.
+
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/Embeddings-B45309?style=flat-square" alt="Embeddings"/> <img src="https://img.shields.io/badge/Multi--model-6E40C9?style=flat-square" alt="Multi-model"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ AI Object Detection Platform
+`Computer vision · IdeaToLife`
+
+Project lead. A tool that lets users annotate images, train models, and then use the trained models for object detection.
+
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square" alt="SageMaker"/> <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 Tamu App
+`Freelance · Food delivery`
+
+Web app for food ordering, delivery and payments, built with Node.js and Angular.
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Queues-0F766E?style=flat-square" alt="Queues"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Certifications and Assessments
+
+<div align="center">
+
+![Role IQ AI Forward Deployed Engineer · Level 3](https://img.shields.io/badge/Role_IQ-AI_Forward_Deployed_Engineer_%C2%B7_Level_3-F15B2A?style=for-the-badge&logo=pluralsight&logoColor=white)
+![Role IQ Generative AI Developer · Level 3](https://img.shields.io/badge/Role_IQ-Generative_AI_Developer_%C2%B7_Level_3-F15B2A?style=for-the-badge&logo=pluralsight&logoColor=white)
+<br/>
+![Andela AI Academy AI Engineering Bootcamp 2025](https://img.shields.io/badge/Andela_AI_Academy-AI_Engineering_Bootcamp_2025-173B3F?style=for-the-badge&logo=andela&logoColor=white)
+
+</div>
+
+```text
+PLURALSIGHT SKILL IQ  ·  Expert tier in all six  ·  verified 21 Feb 2026
+
+AWS Machine Learning & AI..... ███████████████████▌  98th pct · score 275
+Large Language Models......... ███████████████████▌  98th pct · score 276
+Machine Learning Engineering.. ███████████████████▌  98th pct · score 275
+RAG for Developers............ ███████████████████░  96th pct · score 256
+Prompt Engineering............ ███████████████████░  96th pct · score 251
+OpenAI for Developers......... ██████████████████▌░  93rd pct · score 238
+
+ROLE IQ  ►  AI Forward Deployed Engineer ...... LEVEL 3 / 3  ★★★
+         ►  Generative AI Developer ........... LEVEL 3 / 3  ★★★
+```
+
+🎓 **Andela AI Academy: AI Engineering Bootcamp** (Dec 2025): chunking, embeddings, vector databases, LLMs, RAG, fine-tuning, LangChain, LangGraph, MCP, OpenAI Agents SDK, LLMOps / AIOps, LangSmith, Vercel and AWS.
+
+<details>
+<summary><b>🖼️ View certificates</b></summary>
+<br/>
+<p align="center">
+  <img src="assets/certificates/pluralsight-ai-forward-deployed-engineer.jpg" width="49%" alt="Pluralsight Role IQ: AI Forward Deployed Engineer, Level 3"/>
+  <img src="assets/certificates/pluralsight-generative-ai-developer.jpg" width="49%" alt="Pluralsight Role IQ: Generative AI Developer, Level 3"/>
+</p>
+<p align="center">
+  <img src="assets/certificates/andela-ai-engineering-bootcamp.png" width="60%" alt="Andela AI Academy: AI Engineering Bootcamp certificate"/>
+</p>
+</details>
+
+---
+
+## 🎓 Education
+
+🎓 **B.Sc. Information Technology** · Bahauddin Zakariya University, Multan, Pakistan · `2010 – 2014`
+
+---
+
+## 📊 GitHub Stats
+
+<!--
+  The public github-readme-stats instance (github-readme-stats.vercel.app) is returning 503,
+  so these cards use github-profile-summary-cards and streak-stats instead.
+  To bring github-readme-stats back, deploy your own copy to Vercel
+  (https://github.com/anuraghazra/github-readme-stats) and swap in your URL.
+  The snake is built by .github/workflows/snake.yml and served from the `output` branch,
+  so it doesn't depend on any third-party image service.
+-->
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asif-hussain&theme=tokyonight" width="100%" alt="GitHub profile details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asif-hussain&theme=tokyonight" width="32%" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asif-hussain&theme=tokyonight" width="32%" alt="Most committed languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asif-hussain&theme=tokyonight" width="32%" alt="Repos per language"/>
+
+<img src="https://streak-stats.demolab.com?user=Asif-hussain&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asif-hussain/asif-hussain/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asif-hussain/asif-hussain/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Asif-hussain/asif-hussain/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **AI Engineer** and **Forward Deployed Engineer** roles, and to conversations about<br/>
+getting agent systems into production in **healthcare** and **fintech**.
+
+<a href="https://www.linkedin.com/in/asif-hussain-74638671/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="mailto:asif.bzu.1035@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Asif-hussain"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://tkriver.com/"><img src="https://img.shields.io/badge/Website-tkriver.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: tkriver.com"/></a>
+
+```text
+  ┌──────────────────────────────────────────────────────────────┐
+  │  "Ship it, measure it, support it."  Thanks for stopping by! │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A2c5364%2C50%3A203a43%2C100%3A0f2027&amp;height=120&amp;section=footer" width="100%" alt=""/>
+
+</div>
