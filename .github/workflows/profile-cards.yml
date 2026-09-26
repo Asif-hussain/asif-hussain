@@ -1,0 +1,30 @@
+# Generates the GitHub stats cards shown in the README's "GitHub Stats" section and commits them
+# to profile-summary-card-output/tokyonight/. This replaces the hosted card API, which gets rate limited.
+# Optional: add a repo secret SUMMARY_GITHUB_TOKEN (fine-grained PAT) to include private-repo activity;
+# without it the built-in GITHUB_TOKEN is used and only public activity is counted.
+name: Generate profile summary cards
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          THEME: tokyonight
+          UTC_OFFSET: 5
