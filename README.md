@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Experience-13%2B_years-2EA44F?style=flat-square" alt="Experience 13+ years"/>
   <img src="https://img.shields.io/badge/AI_Systems-in_production-8A2BE2?style=flat-square" alt="AI Systems in production"/>
   <img src="https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-01411C?style=flat-square" alt="Based in Lahore, Pakistan"/>
-  <img src="https://komarev.com/ghpvc/?username=Asif-hussain&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Asif-hussain.asif-hussain&left_text=Profile%20views&left_color=%23555&right_color=%230e75b6" alt="Profile views"/>
 </p>
 
 **[👋 About](#-about-me) · [📈 Impact](#-impact-at-a-glance) · [🧩 What I Do](#-what-i-do) · [🚀 How I Deliver](#-how-i-deliver) · [🧱 Systems](#-systems-i-build) · [🧰 Stack](#-tech-stack) · [💼 Experience](#-experience) · [🌟 Projects](#-featured-projects) · [🏆 Certifications](#-certifications-and-assessments) · [📊 Stats](#-github-stats)**
